@@ -1,3 +1,3 @@
 # space-shooter 
-if the link don't work please type this on your web browser
+if you want to try the game just click on the link below
 http://localhost:8000
